@@ -15,8 +15,10 @@ Groupie was used to get Expandable groups in RecyclerView in a very simple way.
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/examplecx/taxi-app/blob/master/screenshots/1.png)
+![1](https://github.com/snehaawate/Taxi-app/assets/104198663/2cf36ab0-9bc5-49f0-a531-c3223207a1ba)
 
-![Screenshot 2](https://github.com/examplecx/taxi-app/blob/master/screenshots/2.png)
 
-![Screenshot 3](https://github.com/examplecx/taxi-app/blob/master/screenshots/3.png)
+![2](https://github.com/snehaawate/Taxi-app/assets/104198663/473c0d7f-abc9-4f60-887f-d5b107b6b0a8)
+
+
+![3](https://github.com/snehaawate/Taxi-app/assets/104198663/9b70f304-2253-4bc6-9888-b9dae68448ca)
